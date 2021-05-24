@@ -4,7 +4,7 @@
 
 심리 성향 예측 AI 경진대회에 사용된 코드입니다.
 
-[바로가기](https://dacon.io/competitions/official/235647/overview/description,"심리 성향 예측 AI 경진대회").
+[다콘 바로가기](https://dacon.io/competitions/official/235647/overview/description)
 
 ## 성적
 
